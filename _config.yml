@@ -155,7 +155,7 @@ content:
            Supports Lotus Notes and Outlook users.
            Responsible for setting up corporate emails on user's mobile phones (iPhone and Blackberry), authentication support, and desktop related concerns.
            Handles internal/corporate application support, account administration and password resets, vpn issues for home-based users, and mobile device management.
-          - After meticulously exhausting level1 troubleshooting steps, escalate tickets to the appropriate Level 2 technical group for further assistance and permanent resolution.
+           After meticulously exhausting level1 troubleshooting steps, escalate tickets to the appropriate Level 2 technical group for further assistance and permanent resolution.
     
       - layout: left
         border: weak
