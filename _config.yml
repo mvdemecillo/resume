@@ -51,7 +51,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I am Ma. Victoria and I'm a remote desktop engineer. I work as a remote technical assistant and service operations support, acting as an escalation from other support teams.
 
-  I am most skilled in: <mark>Exchange</mark>, <mark>Networking</mark>, <mark>Storage</mark>, <mark>Desktop Management Windows 7 and 10</mark>, <mark>Active Directory</mark>, <mark>Azure AD</mark>, <mark>Citrix</mark>
+  I am well versed with <mark>Exchange</mark>, <mark>Networking</mark>, <mark>Storage</mark>, <mark>Desktop Management Windows 7 and 10</mark>, <mark>Active Directory</mark>, <mark>Azure AD</mark>, <mark>Citrix</mark>
 
 content:
   - title: Technical Skills # Title for the section
@@ -104,7 +104,8 @@ content:
             - Owns escalated Incidents from L1/RTA support teams, get daily updates from SMEs, understand the situation, escalate, if necessary, to keep the ball rolling and provide updates to the end users.
             - Provide VIP end-users support acting as their champion and owning the request or incident to completion
 
-
+      - layout: left
+        border: weak
         title: CGI Philippines
         link: https://www.cgi.com/philippines/en
         link_text: cgi.com
@@ -124,7 +125,8 @@ content:
           - 3 months after doing front liner tasks, I was assigned to handle Quality Assurance responsibilities for almost a year. Then moved to Queue Management handling ticket escalations and backlogs. I also did ADHOC tasks such as sending reports to higher opts and clients.
           - Last task given was a backup of our team's Workforce Analyst
 
-
+      - layout: left
+        border: weak
         title: Cognizant Philippines
         link: https://www.cognizant.com/ph/en
         link_text: cognizant.com
@@ -137,6 +139,8 @@ content:
           - Handles mostly MS Outlook and AD account concerns.  
           - Triage for client specific applications.  
 
+      - layout: left
+        border: weak
         title: Stefanini Philippines 
         link: https://stefanini.com/en/philippines
         link_text: stefanini.com
@@ -152,7 +156,8 @@ content:
           - Handles internal/corporate application support, account administration and password resets, vpn issues for home-based users, and mobile device management.
           - After meticulously exhausting level1 troubleshooting steps, escalate tickets to the appropriate Level 2 technical group for further assistance and permanent resolution.
     
-
+      - layout: left
+        border: weak
         title: TeleTech Inc. 
         link: https://www.ttec.com/
         link_text: ttec.com
