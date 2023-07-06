@@ -54,24 +54,24 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Exchange</mark>, <mark>Networking</mark>, <mark>Storage</mark>, <mark>Desktop Management Windows 7 and 10</mark>, <mark>Active Directory</mark>, <mark>Azure AD</mark>, <mark>Citrix</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  - title: Technical Skills # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      - MS Exchange 2010/2013 and EXO 
+      - Office 365 / O365 Admin Center - Setting up O365 account from scratch  
+      - Active Directory/ Azure AD management 
+      - IBM Notes/Lotus Notes 
+      - Lync/Skype for Business/Microsoft Teams 
+      - Desktop related and corporate applications troubleshooting 
+      - Virtual Machines management: Citrix Studio 
+      - Ticketing Tools: ITSM Maximo, BMC Remedy, ServiceNow 
+      - Mobile device support: MobileIron, Intune, BlackBerry 
+      - Remote desktop tool: Skype, Dameware, TeamViewer, Bomgar, CrcViewer, LogMeIn 
+      - VPN Support: Cisco AnyConnect, F5 Big IP Edge Client 
+      - SCCM troubleshooting 
+      - Currently taking up CompTIA Network+ with Certification  
+      - Certified with Fundamentals of Workforce Management  
+    
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
