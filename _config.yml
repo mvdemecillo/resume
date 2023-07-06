@@ -10,7 +10,7 @@ name: Ma. Victoria Demecillo
 title: Remote Desktop Engineer
 email: mvdemecillo@gmail.com
 phone: +63 917 906 7942
-website: www.github.com/mvdemecillo/resume
+website: https://mvdemecillo.github.io/resume/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -57,53 +57,53 @@ content:
   - title: Technical Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - MS Exchange 2010/2013 and EXO 
-      - Office 365 / O365 Admin Center - Setting up O365 account from scratch  
-      - Active Directory/ Azure AD management 
-      - IBM Notes/Lotus Notes 
-      - Lync/Skype for Business/Microsoft Teams 
+      - Email Administration: <mark>Microsoft Exchange 2010</mark>, <mark>Microsoft Exchange 2013</mark> and <mark>Exchange Online</mark>
+      - <mark>Office 365</mark> / <mark>O365 Admin Center</mark> - Setting up O365 account from scratch  
+      - <mark>Active Directory</mark>, <mark>Azure AD</mark> management 
+      - <mark>IBM Notes</mark>, <mark>Lotus Notes</mark> 
+      - <mark>Lync</mark>, <mark>Skype for Business</mark>, <mark>Microsoft Teams</mark> 
       - Desktop related and corporate applications troubleshooting 
-      - Virtual Machines management: Citrix Studio 
-      - Ticketing Tools: ITSM Maximo, BMC Remedy, ServiceNow 
-      - Mobile device support: MobileIron, Intune, BlackBerry 
-      - Remote desktop tool: Skype, Dameware, TeamViewer, Bomgar, CrcViewer, LogMeIn 
-      - VPN Support: Cisco AnyConnect, F5 Big IP Edge Client 
-      - SCCM troubleshooting 
-      - Currently taking up CompTIA Network+ with Certification  
-      - Certified with Fundamentals of Workforce Management  
+      - Virtual Machines management: <mark>Citrix Studio</mark> 
+      - Ticketing Tools: <mark>ITSM Maximo</mark>, <mark>BMC Remedy</mark>, <mark>ServiceNow</mark> 
+      - Mobile device support: <mark>MobileIron</mark>, <mark>Intune</mark>, <mark>BlackBerry</mark> 
+      - Remote desktop tool: <mark>Skype</mark>, <mark>Dameware</mark>, <mark>TeamViewer</mark>, <mark>Bomgar</mark>, <mark>CrcViewer</mark>, <mark>LogMeIn</mark> 
+      - VPN Support: <mark>Cisco AnyConnect</mark>, <mark>F5 Big IP Edge Client</mark> 
+      - <mark>SCCM</mark> troubleshooting 
+      - Currently taking up <mark>CompTIA Network+</mark> with Certification  
+      - Certified with <mark>Fundamentals of Workforce Management</mark>
     
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experiences
+    layout: list
     content:
       - layout: left
-        border: weak
+        border: weak 
         title: ATOS - SYNTEL
-        link: https://www.linkedin.com/company/atos-syntel
-        link_text: ATOS SYNTEL on LinkedIn
+        link: https://atos.net/en/
+        link_text: atos.net
         sub_title: Remote Desktop Engineer / Remote Technical Assistant / Service Operations Support 
         caption: November 2018 - Present
         quote: >
           10th Floor, Tower 3, Science Hub, McKinley Hill, Taguig City  
         description: | # this will include new lines to allow paragraphs
             
-             Provide technical support to end users and staff on computer operation and other issues.
-             Act as local IT for the client image computers.
-             Supports remote access to Client environment.
-             Install, update, and repair software on the organization's systems and applications.
-             Resolve desktop related problems or escalate it to the respective technical support team.
-             Moved eventually to RTA team, served as second line support for Service Desk Analysts.
-             Intermediate to advanced solution support for Exchange, Networking, Storage, Desktop Management Windows 7 and 10, Active Directory, Azure AD and Citrix.
-             Serve as an escalation/immediate support for front-line agents when the issue requires intermediate to advanced troubleshooting
-             Help in the knowledge management for Service Desk; create / update knowledge articles.
-             Ensure quality actioning of service requests and workflow management e.g. ticket - creation/triage/classification/prioritation/assignment/actioning/resolution/closure.
-             Liaise closely with other cross-functional tier support teams.
-             Support for core Client applications.
-             Performs account administration (creations and terminations).
-             Moved eventually to SOS team
-             Addresses all conflicts, challenges and showstoppers by collaborating across other support teams and escalating when necessary.
-             Owns escalated Incidents from L1/RTA support teams, get daily updates from SMEs, understand the situation, escalate, if necessary, to keep the ball rolling and provide updates to the end users.
-             Provide VIP end-users support acting as their champion and owning the request or incident to completion
+            - Provide technical support to end users and staff on computer operation and other issues.
+            - Act as local IT for the client image computers.
+            - Supports remote access to Client environment.
+            - Install, update, and repair software on the organization's systems and applications.
+            - Resolve desktop related problems or escalate it to the respective technical support team.
+            - Moved eventually to RTA team, served as second line support for Service Desk Analysts.
+            - Intermediate to advanced solution support for Exchange, Networking, Storage, Desktop Management Windows 7 and 10, Active Directory, Azure AD and Citrix.
+            - Serve as an escalation/immediate support for front-line agents when the issue requires intermediate to advanced troubleshooting
+            - Help in the knowledge management for Service Desk; create / update knowledge articles.
+            - Ensure quality actioning of service requests and workflow management e.g. ticket - creation/triage/classification/prioritation/assignment/actioning/resolution/closure.
+            - Liaise closely with other cross-functional tier support teams.
+            - Support for core Client applications.
+            - Performs account administration (creations and terminations).
+            - Moved eventually to SOS team
+            - Addresses all conflicts, challenges and showstoppers by collaborating across other support teams and escalating when necessary.
+            - Owns escalated Incidents from L1/RTA support teams, get daily updates from SMEs, understand the situation, escalate, if necessary, to keep the ball rolling and provide updates to the end users.
+            - Provide VIP end-users support acting as their champion and owning the request or incident to completion
 
       - layout: left
         border: weak
@@ -111,103 +111,81 @@ content:
         link: https://www.cgi.com/philippines/en
         link_text: cgi.com
         sub_title: Service Desk Specialist / IT Security  Analyst 
-        caption: July 2016 - Aug 2018
+        caption: July 2016 - August 2018
         quote: >
           2nd Floor, One World Square, McKinley Hill, Taguig City  
-        description: | # this will include new lines to allow paragraphs
-            
-           Handles incident tickets with utmost carefulness depending on the level of urgency and impact on the business via phone, chat or email.
-           Handles first line incidents, including triage and troubleshooting, resolution where possible and assignment where required to 2nd/3rd line support teams and third parties.
-           Troubleshooting software problems and printer problems
-           Familiar with Active Directory, VPN Connection, Citrix Environment, IBM Notes/Lotus, MS Outlook/O365/Exchange ticketing tool such as; ITSM Maximo and BMC Remedy, remote desktop tool (Bomgar, Remote Desktop Connection, IBM BigFix Remote Controller, SCCM)
-           Troubleshoot Retail devices such as Registers, Debit Machines, Scanners, POS and Printers
-           Handles user account creation, modification and deletion thru Active Directory, Exchange, Mainframe and IBM Lotus Notes
-           Handles support for Video conferencing and SFB conferencing troubleshooting
-           3 months after doing front liner tasks, I was assigned to handle Quality Assurance responsibilities for almost a year. Then moved to Queue Management handling ticket escalations and backlogs. I also did ADHOC tasks such as sending reports to higher opts and clients.
-           Last task given was a backup of our team's Workforce Analyst
+        description: |
+
+          - Handles incident tickets with utmost carefulness depending on the level of urgency and impact on the business via phone, chat or email.
+          - Handles first line incidents, including triage and troubleshooting, resolution where possible and assignment where required to 2nd/3rd line support teams and third parties.
+          - Troubleshooting software problems and printer problems
+          - Familiar with Active Directory, VPN Connection, Citrix Environment, IBM Notes/Lotus, MS Outlook/O365/Exchange ticketing tool such as; ITSM Maximo and BMC Remedy, remote desktop tool (Bomgar, Remote Desktop Connection, IBM BigFix Remote Controller, SCCM)
+          - Troubleshoot Retail devices such as Registers, Debit Machines, Scanners, POS and Printers
+          - Handles user account creation, modification and deletion thru Active Directory, Exchange, Mainframe and IBM Lotus Notes
+          - Handles support for Video conferencing and SFB conferencing troubleshooting
+          - 3 months after doing front liner tasks, I was assigned to handle Quality Assurance responsibilities for almost a year. Then moved to Queue Management handling ticket escalations and backlogs. I also did ADHOC tasks such as sending reports to higher opts and clients.
+          - Last task given was a backup of our team's Workforce Analyst
 
       - layout: left
         border: weak
         title: Cognizant Philippines
+        sub_title: Sr. System Engineer 
         link: https://www.cognizant.com/ph/en
         link_text: cognizant.com
-        sub_title: Sr. System Engineer 
         caption: October 2015 - April 2016
         quote: >
-          2nd flr Tower 4, Science Hub, McKinley Hill, Taguig City   
-        description: | # this will include new lines to allow paragraphs
-            
-           Handles mostly MS Outlook and AD account concerns.  
-           Triage for client specific applications.  
+          2nd flr Tower 4, Science Hub, McKinley Hill, Taguig City 
+        description: |
+          - Handles mostly MS Outlook and AD account concerns.  
+          - Triage for client specific applications.
 
       - layout: left
         border: weak
         title: Stefanini Philippines 
         link: https://stefanini.com/en/philippines
         link_text: stefanini.com
-        sub_title: IT Service Desk 
-        caption: Sept 2013 - Aug 2014
+        sub_title: IT Service Desk
+        caption: September 2013 - August 2014
         quote: >
-          30th Floor GT Tower, Makati City  
-        description: | # this will include new lines to allow paragraphs
-            
-           Supports technical and some financial queries from Ernst and Young employees via phone, email or chat.
-           Supports Lotus Notes and Outlook users.
-           Responsible for setting up corporate emails on user's mobile phones (iPhone and Blackberry), authentication support, and desktop related concerns.
-           Handles internal/corporate application support, account administration and password resets, vpn issues for home-based users, and mobile device management.
-           After meticulously exhausting level1 troubleshooting steps, escalate tickets to the appropriate Level 2 technical group for further assistance and permanent resolution.
-    
+          30th Floor GT Tower, Makati City
+        description: |
+          - Supports technical and some financial queries from Ernst and Young employees via phone, email or chat.
+          - Supports Lotus Notes and Outlook users.
+          - Responsible for setting up corporate emails on user's mobile phones (iPhone and Blackberry), authentication support, and desktop related concerns.
+          - Handles internal/corporate application support, account administration and password resets, vpn issues for home-based users, and mobile device management.
+          - After meticulously exhausting level1 troubleshooting steps, escalate tickets to the appropriate Level 2 technical group for further assistance and permanent resolution.
+
       - layout: left
-        border: weak
-        title: TeleTech Inc. 
+        title: TeleTech Inc.
+        sub_title: Technical Support 1
         link: https://www.ttec.com/
-        link_text: ttec.com
-        sub_title: Technical Support 1  
+        link_text: www.ttec.com
         caption: Jun 2008 - June 2012
         quote: >
           4th Floor SM City, Bacoor, Cavite 
-        description: | # this will include new lines to allow paragraphs
-            
-           Provides Level 1 technical support for HP notebook customers.  
-           Handles admin tasks for Telstra account customers. 
-    
+        description: |
+          - Provides Level 1 technical support for HP notebook customers.  
+          - Handles admin tasks for Telstra account customers. 
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+
+  - title: Education
+    layout: list
     content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+      - title: Pamantasan ng Lungsod ng Muntinlupa
+        layout: top-right
+        sub_title: BS in Computer Science
+        caption: April 2007
+        description: |
+          
+          Bachelor's degree in Computer Science from Pamantasan ng Lungsod ng Manila, Reservation, Brgy. Poblacion, City of Muntinlupa
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: References available on request
 
 # Build settings
 remote_theme: sproogen/resume-theme
 
-sass:
-  sass_dir: _sass
-  style: compressed
-
-plugins:
- - jekyll-seo-tag
+# sass:
+#   style: compressed
