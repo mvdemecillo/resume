@@ -31,10 +31,11 @@ linkedin_username: mv-demecillo-663a59194
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
+additional_links:
+- title: PDF version
+  icon: fab fa-adobe
+  url: https://mvdemecillo.github.io/resume/assets/resume.pdf #Export this from https://www.web2pdfconvert.com/
+
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -49,7 +50,7 @@ linkedin_username: mv-demecillo-663a59194
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I am Ma. Victoria and I'm a remote desktop engineer. I work as a remote technical assistant and service operations support, acting as an escalation from other support teams.
+  Hello, I'm Ma. Victoria, a Remote Desktop Engineer. My role primarily involves providing technical assistance and operational support remotely. I serve as an escalation point for other support teams, ensuring that any issues or concerns are resolved efficiently and effectively.
 
   I am well versed with <mark>Exchange</mark>, <mark>Networking</mark>, <mark>Storage</mark>, <mark>Desktop Management Windows 7 and 10</mark>, <mark>Active Directory</mark>, <mark>Azure AD</mark>, <mark>Citrix</mark>
 
